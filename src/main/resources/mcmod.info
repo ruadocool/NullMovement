@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${id}",
+    "name": "${name}",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcVersionStr}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ruado"
+    ],
+    "credits": "jwkerr for the original mod",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
